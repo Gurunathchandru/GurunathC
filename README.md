@@ -1,7 +1,7 @@
 # GurunathC
 
 Clone the repository:
-git clone https://github.com/<your-username>/<>.git
+git clone [https://github.com/<your-username>/<>.git](https://github.com/Gurunathchandru/GurunathC.git)
 cd <your-repo-name>
 
 Compile all files:
